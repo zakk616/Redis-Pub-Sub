@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis-Pub", "Redis-Pub\Redis-Pub.csproj", "{B33B7370-1197-4ABE-8949-3F89B4846712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis-Sub1", "Redis-Sub1\Redis-Sub1.csproj", "{91A6F6CD-E997-4AA1-A0A5-F8D1A9C52092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis-Sub2", "Redis-Sub2\Redis-Sub2.csproj", "{E4D26D37-7B32-4F80-A4D9-B262F526C941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33B7370-1197-4ABE-8949-3F89B4846712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33B7370-1197-4ABE-8949-3F89B4846712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33B7370-1197-4ABE-8949-3F89B4846712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33B7370-1197-4ABE-8949-3F89B4846712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A6F6CD-E997-4AA1-A0A5-F8D1A9C52092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A6F6CD-E997-4AA1-A0A5-F8D1A9C52092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A6F6CD-E997-4AA1-A0A5-F8D1A9C52092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A6F6CD-E997-4AA1-A0A5-F8D1A9C52092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D26D37-7B32-4F80-A4D9-B262F526C941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D26D37-7B32-4F80-A4D9-B262F526C941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D26D37-7B32-4F80-A4D9-B262F526C941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D26D37-7B32-4F80-A4D9-B262F526C941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7EF28F-A22B-4B6C-94DC-71DFC673AA87}
+	EndGlobalSection
+EndGlobal
